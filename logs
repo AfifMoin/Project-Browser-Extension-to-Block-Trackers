@@ -1,0 +1,8 @@
+BLOCKED: google-analytics.com
+   URL: https://www.google-analytics.com/analytics.js
+   Type: script
+   Total Blocked: 1
+ BLOCKED: doubleclick.net
+   URL: https://doubleclick.net/ad/123
+   Type: image
+   Total Blocked: 2
